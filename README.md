@@ -1,3 +1,3 @@
-## 🔗 ![Acessar](https://leonardomcl.github.io/desafioballerine/ "Acessar")
+## 🔗 LINKS
 
-
+[GO](https://leonardomcl.github.io/desafioballerine/)
